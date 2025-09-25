@@ -79,9 +79,6 @@ Each project folder contains its own detailed README with setup instructions, fe
 
 ## :speech_balloon: Contact Me!
 
-- [Portfolio Website](#)
-- stokesk.swe@gmail.com
-- linkedin.com/in/keith-stokes-swe/
-  
-- [LinkedIn](#)  
-- [Email](mailto:youremail@example.com)  
+- [Portfolio Website](#pandabump.github.io/)
+- [LinkedIn](#linkedin.com/in/keith-stokes-swe/)  
+- [Email](mailto:stokesk.swe@gmail.com)  

@@ -9,23 +9,24 @@ Each project highlights different technologies and problem-solving approaches.
 
 ## :star: Featured Projects  
 
-### 🔧 Rent-A-Man Website  
-A full-stack property maintenance web app I made for my dad to have a professional digital representation of his business and a more direct way to interact with clients 
-**Stack:** React, Node.js, Express, MongoDB, Tailwind, JWT Auth  
-- User sign-up/login with JWT authentication  
-- Service posting & search  
-- Image upload via cloud storage  
-- [Live Demo](#) • [Code](./handyman-connect)  
-
----
-
-### 🌐 Personal Portfolio Website  
+### :globe_with_meridians: Personal Portfolio Website  
 A retro-inspired responsive website to showcase my work and skills.  
 **Stack:** React, Next.js, Tailwind, Framer Motion  
 - Smooth animations + pixel-art theme  
 - Mobile-first design  
 - Custom Linktree-style landing page  
 - [Live Demo](#) • [Code](./portfolio-site)  
+  
+
+---
+
+### :hammer: Rent-A-Man Website  
+A full-stack property maintenance web app I made for my dad to have a professional digital representation of his business and a more direct way to interact with clients 
+**Stack:** React, Node.js, Express, MongoDB, Tailwind, JWT Auth  
+- User sign-up/login with JWT authentication  
+- Service posting & search  
+- Image upload via cloud storage  
+- [Live Demo](#) • [Code](./rent-a-man)
 
 ---
 
@@ -36,12 +37,30 @@ A fun guessing game using the PokeAPI to test your Pokémon knowledge.
 - Guessing timer + score tracking  
 - [Live Demo](#) • [Code](./pokemon-guessing-game)  
 
+---
 
 ### :money_with_wings: Money Moves
+A money management SaaS designed to centralize users' money information in one secure location.  
+**Stack:**   
+- Summarization dashboard to show visualized accurate data at one quick glance
+- Income, budgeting, and spending tracker
+- Crypto hub for investments monitoring and utilization
+- [Live Demo](#) • [Code](./money-moves)
 
 ---
 
-## 🛠️ Tech Toolbox  
+### :game_die: Dungeoneering AI
+A generative AI model designed to create precise digital graphics, assets, and ideas for Dungeons & Dragons Dungeon Masters.
+**Stack:**   
+- Thematicc image generation using natural language
+- Idea development through conversations with user
+- Unique gameplay mechanics generation based on themes provided
+- Learns popular and fun suggestions using real data from webscraping public Dungeons & Dragons communities
+- [Live Demo](#) • [Code](./dungeoneer-ai)
+
+---
+
+## :computer: Tech Toolbox  
 
 - **Frontend:** React, Next.js, Tailwind, Material UI, Bootstrap  
 - **Backend:** Node.js, Express, REST APIs, JWT/Auth  
@@ -58,8 +77,11 @@ Each project folder contains its own detailed README with setup instructions, fe
 
 ---
 
-## 📬 Contact  
+## :speech_balloon: Contact Me!
 
-- [Portfolio Website](#)  
+- [Portfolio Website](#)
+- stokesk.swe@gmail.com
+- linkedin.com/in/keith-stokes-swe/
+  
 - [LinkedIn](#)  
 - [Email](mailto:youremail@example.com)  

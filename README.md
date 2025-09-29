@@ -15,10 +15,9 @@ An ATS-aware career analytics tool that turns job descriptions and resumes into 
 - ATS-focused resume scoring with actionable edits
 - One-click tailored resume drafts (export-ready)  
 - JD parsing with keyword gap analysis
-- [future feature] Insights dashboard to track skills and role fit over time  
-- [Live Demo](#) • [Code](./role-radar)  
+- _Future:_ Insights dashboard to track skills and role fit over time  
+- **Demo:** Coming soon • **Code:** `./role-radar`  
   
-
 ---
 
 ### :hammer: Rent-A-Man Website  
@@ -28,7 +27,7 @@ A full-stack property maintenance web app I made for my dad to have a profession
 - Booking, scheduling, and invoicing capabilities  
 - Service posting & search  
 - Image upload via cloud storage  
-- [Live Demo](#) • [Code](./rent-a-man)
+- **Demo:** Coming soon • **Code:** `./rent-a-man`
 
 ---
 
@@ -39,27 +38,27 @@ An automation platform that connects Gmail, Slack, and Notion to eliminate repet
 - Rules and filters to route messages and tasks across apps
 - Reliable background processing with retries and idempotency (Redis-backed)
 - Run history and error reporting  
-- [Live Demo](#) • [Code](./sparkflow)  
+- **Demo:** Coming soon • **Code:** `./sparkflow`
 
 ---
 
-### :money_with_wings: Money Moves [ :construction: in development]
+### :money_with_wings: Money Moves _(:construction: in development)_
 A money management SaaS designed to centralize users' money information in one secure location.  
-**Stack:**   
+**Stack:** _TBD_
 - Summarization dashboard to show visualized accurate data at one quick glance
 - Income, budgeting, and spending tracker
 - Crypto hub for investments monitoring and utilization
-- [Live Demo](#) • [Code](./money-moves)
+- **Demo:** Coming soon • **Code:** `./money-moves`
 
 ---
 
-### :game_die: Dungeoneering AI [ :construction: in development]
+### :game_die: Dungeoneer AI _(:construction: in development)_
 A generative AI model designed to create precise digital graphics, assets, and ideas for Dungeons & Dragons Dungeon Masters.
-**Stack:**   
+**Stack:** _TBD_
 - Thematic image generation using natural language
 - Idea development via conversations with user
 - Learns popular and fun suggestions using real data from webscraping public Dungeons & Dragons communities
-- [Live Demo](#) • [Code](./dungeoneer-ai)
+- **Demo:** Coming soon • **Code:** `./dungeoneer-ai`
 
 ---
 
@@ -86,6 +85,6 @@ Each project folder contains its own detailed README with setup instructions, fe
 
 ## :speech_balloon: Contact Me!
 
-- [Portfolio Website](#pandabump.github.io/)
-- [LinkedIn](#linkedin.com/in/keith-stokes-swe/)  
-- [Email](mailto:stokesk.swe@gmail.com)  
+- **Portfolio:** https://pandabump.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/keith-stokes-swe/
+- **Email:** stokesk.swe@gmail.com 

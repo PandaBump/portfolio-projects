@@ -9,13 +9,14 @@ Each project highlights different technologies and problem-solving approaches.
 
 ## :star: Featured Projects  
 
-### :globe_with_meridians: Personal Portfolio Website  
-A retro-inspired responsive website to showcase my work and skills.  
-**Stack:** React, Next.js, Tailwind, Framer Motion  
-- Smooth animations + pixel-art theme  
-- Mobile-first design  
-- Custom Linktree-style landing page  
-- [Live Demo](#) • [Code](./portfolio-site)  
+### :memo: RoleRadar  
+An ATS-aware career analytics tool that turns job descriptions and resumes into targeted, keyword-aligned application materials  
+**Stack:** Python, JavaScript/TypeScript, React, Node.js, PostgreSQL 
+- ATS-focused resume scoring with actionable edits
+- One-click tailored resume drafts (export-ready)  
+- JD parsing with keyword gap analysis
+- [future feature] Insights dashboard to track skills and role fit over time  
+- [Live Demo](#) • [Code](./role-radar)  
   
 
 ---
@@ -23,23 +24,26 @@ A retro-inspired responsive website to showcase my work and skills.
 ### :hammer: Rent-A-Man Website  
 A full-stack property maintenance web app I made for my dad to have a professional digital representation of his business and a more direct way to interact with clients 
 **Stack:** React, Node.js, Express, MongoDB, Tailwind, JWT Auth  
-- User sign-up/login with JWT authentication  
+- User sign-up/login with JWT authentication
+- Booking, scheduling, and invoicing capabilities  
 - Service posting & search  
 - Image upload via cloud storage  
 - [Live Demo](#) • [Code](./rent-a-man)
 
 ---
 
-### :space_invader: Pokémon Guessing Game  
-A fun guessing game using the PokeAPI to test your Pokémon knowledge.  
-**Stack:** React, Node.js, PokeAPI, CSS  
-- Random Pokémon generator  
-- Guessing timer + score tracking  
-- [Live Demo](#) • [Code](./pokemon-guessing-game)  
+### :repeat: Sparkflow  
+An automation platform that connects Gmail, Slack, and Notion to eliminate repetitive coordination and keep teams in sync  
+**Stack:** Python, JavaScript/TypeScript, React, Node.js, MongoDB, Redis  
+- Native integrations for Gmail, Slack, and Notion
+- Rules and filters to route messages and tasks across apps
+- Reliable background processing with retries and idempotency (Redis-backed)
+- Run history and error reporting  
+- [Live Demo](#) • [Code](./sparkflow)  
 
 ---
 
-### :money_with_wings: Money Moves
+### :money_with_wings: Money Moves [ :construction: in development]
 A money management SaaS designed to centralize users' money information in one secure location.  
 **Stack:**   
 - Summarization dashboard to show visualized accurate data at one quick glance
@@ -49,12 +53,11 @@ A money management SaaS designed to centralize users' money information in one s
 
 ---
 
-### :game_die: Dungeoneering AI
+### :game_die: Dungeoneering AI [ :construction: in development]
 A generative AI model designed to create precise digital graphics, assets, and ideas for Dungeons & Dragons Dungeon Masters.
 **Stack:**   
-- Thematicc image generation using natural language
-- Idea development through conversations with user
-- Unique gameplay mechanics generation based on themes provided
+- Thematic image generation using natural language
+- Idea development via conversations with user
 - Learns popular and fun suggestions using real data from webscraping public Dungeons & Dragons communities
 - [Live Demo](#) • [Code](./dungeoneer-ai)
 
@@ -62,11 +65,15 @@ A generative AI model designed to create precise digital graphics, assets, and i
 
 ## :computer: Tech Toolbox  
 
-- **Frontend:** React, Next.js, Tailwind, Material UI, Bootstrap  
-- **Backend:** Node.js, Express, REST APIs, JWT/Auth  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **Cloud/DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD  
-- **Other:** TypeScript, Jest, Postman  
+- **Languages:** Python, Java, JavaScript/TypeScript, C++, C#, PHP
+- **Frontend:** React, Next.js
+- **UI/Styling:** Tailwind CSS, Material UI, Bootstrap
+- **Backend:** Node.js, Express, ASP.NET
+- **APIs:** REST, OpenAPI/Swagger, OpenAI
+- **Auth & Security:** JWT-based auth
+- **Databases & Caching:** MongoDB, MySQL, PostgreSQL, Redis 
+- **Cloud/DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD (GitHub Actions) 
+- **Testing & QA:** Jest, Postman
 
 ---
 

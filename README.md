@@ -42,7 +42,7 @@ An automation platform that connects Gmail, Slack, and Notion to eliminate repet
 
 ---
 
-### :money_with_wings: Money Moves _(:construction: in development)_
+### :money_with_wings: Money Moves _( :construction: in development)_
 A money management SaaS designed to centralize users' money information in one secure location.  
 **Stack:** _TBD_
 - Summarization dashboard to show visualized accurate data at one quick glance
@@ -52,7 +52,7 @@ A money management SaaS designed to centralize users' money information in one s
 
 ---
 
-### :game_die: Dungeoneer AI _(:construction: in development)_
+### :game_die: Dungeoneer AI _( :construction: in development)_
 A generative AI model designed to create precise digital graphics, assets, and ideas for Dungeons & Dragons Dungeon Masters.
 **Stack:** _TBD_
 - Thematic image generation using natural language
